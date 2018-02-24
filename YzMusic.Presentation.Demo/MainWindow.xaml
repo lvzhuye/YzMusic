@@ -1,0 +1,10 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Controls="clr-namespace:YzMusic.Presentation.Controls;assembly=YzMusic.Presentation" x:Class="YzMusic.Presentation.Demo.MainWindow"
+        Title="MainWindow" Height="350" Width="525"
+    Background="#333333">
+    <Grid>
+        <Controls:SearchBox HorizontalAlignment="Center" VerticalAlignment="Center" TextWrapping="Wrap" VisibleBackground="{DynamicResource RG_ControlsBackgroundMediumTransparentBrush}" Width="200" Foreground="{DynamicResource RG_ForegroundBrush}" SearchGlassForeground="{DynamicResource RG_ForegroundBrush}" Accent="{DynamicResource RG_AccentBrush}"/>
+    </Grid>
+</Window>

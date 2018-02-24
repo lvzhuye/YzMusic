@@ -1,0 +1,15 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    
+    <Color x:Key="RG_WhiteColor">White</Color>
+    <SolidColorBrush x:Key="RG_WhiteBrush" Color="{DynamicResource RG_WhiteColor}"/>
+    
+    <Color x:Key="RG_ControlsBackgroundMediumTransparentColor">#AAAA</Color>
+    <SolidColorBrush x:Key="RG_ControlsBackgroundMediumTransparentBrush" Color="{DynamicResource RG_ControlsBackgroundMediumTransparentColor}" Opacity="0.1"/>
+    
+    <Color x:Key="RG_ForegroundColor">#E2E2E2</Color>
+    <SolidColorBrush x:Key="RG_ForegroundBrush" Color="{DynamicResource RG_ForegroundColor}"/>
+
+    <Color x:Key="RG_AccentColor">#CE0058</Color>
+    <SolidColorBrush x:Key="RG_AccentBrush" Color="{DynamicResource RG_AccentColor}"/>
+</ResourceDictionary>

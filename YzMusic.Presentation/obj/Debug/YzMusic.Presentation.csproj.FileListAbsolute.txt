@@ -1,0 +1,15 @@
+D:\YzMusic\YzMusic\YzMusic.Presentation\bin\Debug\YzMusic.Presentation.dll
+D:\YzMusic\YzMusic\YzMusic.Presentation\bin\Debug\YzMusic.Presentation.pdb
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\YzMusic.Presentation_MarkupCompile.cache
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\YzMusic.Presentation_MarkupCompile.lref
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\Themes\Generic.baml
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\Themes\SearchBox.baml
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\YzMusic.Presentation.g.resources
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\YzMusic.Presentation.Properties.Resources.resources
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\YzMusic.Presentation.csproj.GenerateResource.Cache
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\YzMusic.Presentation.dll
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\YzMusic.Presentation.pdb
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\Resources\Styles\FontStyles.baml
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\Resources\Themes\Common.baml
+D:\YzMusic\YzMusic\YzMusic.Presentation\obj\Debug\Resources\Styles\AllStyles.baml

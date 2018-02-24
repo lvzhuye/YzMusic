@@ -1,0 +1,12 @@
+D:\YzMusic\YzMusic\YzMusic\bin\Debug\YzMusic.exe.config
+D:\YzMusic\YzMusic\YzMusic\obj\Debug\App.g.cs
+D:\YzMusic\YzMusic\YzMusic\obj\Debug\YzMusic_MarkupCompile.cache
+D:\YzMusic\YzMusic\YzMusic\bin\Debug\YzMusic.exe
+D:\YzMusic\YzMusic\YzMusic\bin\Debug\YzMusic.pdb
+D:\YzMusic\YzMusic\YzMusic\obj\Debug\MainWindow.baml
+D:\YzMusic\YzMusic\YzMusic\obj\Debug\MainWindow.g.cs
+D:\YzMusic\YzMusic\YzMusic\obj\Debug\YzMusic.g.resources
+D:\YzMusic\YzMusic\YzMusic\obj\Debug\YzMusic.Properties.Resources.resources
+D:\YzMusic\YzMusic\YzMusic\obj\Debug\YzMusic.csproj.GenerateResource.Cache
+D:\YzMusic\YzMusic\YzMusic\obj\Debug\YzMusic.exe
+D:\YzMusic\YzMusic\YzMusic\obj\Debug\YzMusic.pdb
